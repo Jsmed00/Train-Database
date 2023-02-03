@@ -1,0 +1,21 @@
+conductor_id,conductor_name,salary,dob,sex,base_station_id
+2116,William Hartnell,"$110,000",04/23/1972,M,5
+2076,Patrick Troughton,"$96,000",03/28/1987,M,5
+4055,Jon Pertwee,"$108,000",05/20/1986,M,3
+6096,Tom Baker,"$67,000",01/20/1974,M,1
+2113,Peter Davison,"$54,000",04/13/1978,M,2
+2086,Colin Baker,"$61,000",06/08/1984,M,1
+2021,Sylvester McCoy,"$71,000",08/20/1989,M,4
+6570,Samuel West,"$86,000",6/10/1975,M,3
+6140,Derick Smith,"$78,000",03/14/1988,M,1
+4776,David White,"$100,000",4/20/1969,M,1
+4286,Joe Swanson,"$53,000",12/25/1985,M,4
+9495,John Smith,"$99,000",07/24/1976,M,2
+4017,Noah Tailor,"$58,000",04/13/1990,M,3
+1904,Amy Baker,"$106,000",10/15/1990,F,3
+1661,Justin Ashton,"$89,000",07/11/1969,M,1
+8764,Francine Smith,"$74,000",10/11/1979,F,2
+8749,Ashley Davis,"$61,000",9/24/1990,F,3
+9590,John Johnson,"$100,000",11/4/1944,M,1
+5974,Troy Davis,"$57,000",7/3/1989,M,5
+8082,Allison Clark,"$79,000",4/1/1985,F,4
